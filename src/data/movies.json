@@ -3,7 +3,7 @@
         {
             "id": 1,
             "title": "The Gray Man",
-            "href": "/src/public/images/the_gray_man.png",
+            "href": "src/public/images/the_gray_man.png",
             "type": 1,
             "parent": -1,
             "question": "Choose one of the three movies",
@@ -12,7 +12,7 @@
         {
             "id": 2,
             "title": "Blonde",
-            "href": "/src/public/images/blonde.png",
+            "href": "src/public/images/blonde.png",
             "type": 1,
             "parent": -1,
             "question": "Choose one of the three movies",
@@ -21,7 +21,7 @@
         {
             "id": 3,
             "title": "Minions",
-            "href": "/src/public/images/minions.png",
+            "href": "src/public/images/minions.png",
             "type": 1,
             "parent": -1,
             "question": "Choose one of the three movies",
@@ -30,7 +30,7 @@
         {
             "id": 4,
             "title": "Top Gun: Maverick",
-            "href": "/src/public/images/top_gun.png",
+            "href": "src/public/images/top_gun.png",
             "type": 2,
             "parent": 1,
             "question": "Which one do you like the most",
@@ -39,7 +39,7 @@
         {
             "id": 5,
             "title": "Bullet Train",
-            "href": "/src/public/images/bullet_train.png",
+            "href": "src/public/images/bullet_train.png",
             "type": 2,
             "parent": 1,
             "question": "Which one do you like the most",
@@ -48,7 +48,7 @@
         {
             "id": 6,
             "title": "Thor: Love and Thunder",
-            "href": "/src/public/images/thor.png",
+            "href": "src/public/images/thor.png",
             "type": 2,
             "parent": 1,
             "question": "Which one do you like the most",
@@ -57,7 +57,7 @@
         {
             "id": 7,
             "title": "Purple Hearts",
-            "href": "/src/public/images/purple_heart.png",
+            "href": "src/public/images/purple_heart.png",
             "type": 2,
             "parent": 2,
             "question": "Which one do you want to watch now",
@@ -66,7 +66,7 @@
         {
             "id": 8,
             "title": "Black Panther: Wakanda Forever",
-            "href": "/src/public/images/black_panter.jpg",
+            "href": "src/public/images/black_panter.jpg",
             "type": 2,
             "parent": 2,
             "question": "Which one do you want to watch now",
@@ -75,7 +75,7 @@
         {
             "id": 10,
             "title": "The Godfather",
-            "href": "/src/public/images/the_godfather.jpg",
+            "href": "src/public/images/the_godfather.jpg",
             "type": 2,
             "parent": 2,
             "question": "Which one do you want to watch now",
@@ -84,7 +84,7 @@
         {
             "id": 11,
             "title": "Batman",
-            "href": "/src/public/images/batman.png",
+            "href": "src/public/images/batman.png",
             "type": 3,
             "question": "Which one do you want to watch now",
             "imdb": "https://www.imdb.com/title/tt1877830/"
@@ -92,7 +92,7 @@
         {
             "id": 12,
             "title": "Spider-Man: No Way Home",
-            "href": "/src/public/images/spider_man.png",
+            "href": "src/public/images/spider_man.png",
             "type": 3,
             "question": "Which one do you want to watch now",
             "imdb": "https://www.imdb.com/title/tt10872600/"
@@ -100,7 +100,7 @@
         {
             "id": 13,
             "title": "Flash",
-            "href": "/src/public/images/flash.png",
+            "href": "src/public/images/flash.png",
             "type": 3,
             "question": "Which one do you want to watch now",
             "imdb": "https://www.imdb.com/title/tt0439572/"
@@ -108,7 +108,7 @@
         {
             "id": 14,
             "title": "A Real Pain",
-            "href": "/src/public/images/a_real_pain.jpg",
+            "href": "src/public/images/a_real_pain.jpg",
             "type": 2,
             "parent": 3,
             "question": "Which one do you want to watch now",
@@ -117,7 +117,7 @@
         {
             "id": 15,
             "title": "Notting Hill",
-            "href": "/src/public/images/notting_hill.jpeg",
+            "href": "src/public/images/notting_hill.jpeg",
             "type": 2,
             "parent": 3,
             "question": "Which one do you want to watch now",
@@ -126,7 +126,7 @@
         {
             "id": 16,
             "title": "Fight Club",
-            "href": "/src/public/images/fight_club.jpg",
+            "href": "src/public/images/fight_club.jpg",
             "type": 2,
             "parent": 3,
             "question": "Which one do you want to watch now",
